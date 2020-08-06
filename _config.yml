@@ -233,7 +233,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: code
     values:
       layout: talk
       author_profile: true
