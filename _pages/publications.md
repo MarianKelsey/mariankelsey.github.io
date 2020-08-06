@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Papers
+### Published Papers
 
 Kelsey, Veronica; Rowley, Peter $M_{24}$-orbits of octad triples. Graphs Combin. 34 (2018), no. 6, 1429–1443.
 
@@ -287,7 +287,7 @@ Rowley, Peter J. The $\pi$-separability of certain factorizable groups. Math. Z.
 
 
 
-*Submitted Papers*
+### Submitted Papers
 Meirerfrankenfeld, Ulrich; Parker, Christopher; Rowley, Peter. Rank One Isolated  Subgroups in Finite Groups.
 
 Parker C: Rowley P. 2-minimal subgroups of Symplectic Groups
