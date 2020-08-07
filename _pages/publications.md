@@ -93,35 +93,35 @@ Parker, C. W.; Rowley, P. J. *A 3-local identification of the Alternating Group 
 
 Hart, Sarah B.; Rowley, Peter J. *Poincare Series of Cosets in Coxeter Groups*. Algebra Colloq. 16 (2009), no. 4, 567–574.
 
-Hart, Sarah B.; Rowley, Peter J. Lengths of Subsets in Coxeter Groups. Turk. J. Math. 31(2007), 63 - 77.
+Hart, Sarah B.; Rowley, Peter J. *Lengths of Subsets in Coxeter Groups*. Turk. J. Math. 31(2007), 63 - 77.
 
-Rowley, Peter; Walker, Louise The Maximal 2-Local Geometry for J$_4$ I. JP Jour. Algebra, Number Theory and Appl. 9(2007) no. 2, 145 - 213.
+Rowley, Peter; Walker, Louise *The Maximal 2-Local Geometry for J$_4$ I*. JP Jour. Algebra, Number Theory and Appl. 9(2007) no. 2, 145 - 213.
 
-Rowley, Peter; Walker, Louise The Maximal 2-Local Geometry for $J_4$, II. JP Jour. Algebra, Number Theory and Appl. 10(2008) no. 1, 9 - 49.
+Rowley, Peter; Walker, Louise *The Maximal 2-Local Geometry for $J_4$, II*. JP Jour. Algebra, Number Theory and Appl. 10(2008) no. 1, 9 - 49.
 
-Rowley, Peter; Walker, Louise The Maximal 2-Local Geometry for $J_4$, III. JP Jour. Algebra, Number Theory and Appl. 10(2008) no 1, 129 – 167.
+Rowley, Peter; Walker, Louise *The Maximal 2-Local Geometry for $J_4$, III*. JP Jour. Algebra, Number Theory and Appl. 10(2008) no 1, 129 – 167.
 
-Lempken, Wolfgang; Parker, Christopher; Rowley, Peter $(S_3,S_6$)-amalgams. V. Rend. Sem. Mat. Univ. Padova 117(2007), 231 - 256.
+Lempken, Wolfgang; Parker, Christopher; Rowley, Peter *$(S_3,S_6$)-amalgams. V.* Rend. Sem. Mat. Univ. Padova 117(2007), 231 - 256.
 
-Lempken, Wolfgang; Parker, Christopher; Rowley, Peter $(S_3, S_6)$-amalgams. VI. Rend. Sem. Mat. Univ. Padova 118(2007), 235 - 256.
+Lempken, Wolfgang; Parker, Christopher; Rowley, Peter *$(S_3, S_6)$-amalgams. VI.* Rend. Sem. Mat. Univ. Padova 118(2007), 235 - 256.
 
-Lempken, Wolfgang; Parker, Christopher; Rowley, Peter $(S_3,S_6)$-amalgams. VII. Rend. Sem. Mat. Univ. Padova 119(2008), 97 - 139.
+Lempken, Wolfgang; Parker, Christopher; Rowley, Peter *$(S_3,S_6)$-amalgams. VII.* Rend. Sem. Mat. Univ. Padova 119(2008), 97 - 139.
 
-Bates, C.; Bundy, D.; Perkins, S.; Rowley, P. Commuting Involution Graphs for Sporadic Simple Groups. J.Algebra 316(2007), 849 - 868.
+Bates, C.; Bundy, D.; Perkins, S.; Rowley, P. *Commuting Involution Graphs for Sporadic Simple Groups.* J.Algebra 316(2007), 849 - 868.
 
-Bundy, David; Rowley, Peter Symmetric Groups and completions of the Goldschmidt amalgams of type $G_1$, J. Group Theory 9(2006), no 5,627 - 640.
+Bundy, David; Rowley, Peter *Symmetric Groups and completions of the Goldschmidt amalgams of type $G_1$,* J. Group Theory 9(2006), no 5,627 - 640.
 
-Korchagina, I.A.; Parker, C. W.; Rowley, P.A 3-local characterization of $Co_3$ Europ. J. Combinatorics 28(2007), 559 - 566.
+Korchagina, I.A.; Parker, C. W.; Rowley, P. *A 3-local characterization of $Co_3$* Europ. J. Combinatorics 28(2007), 559 - 566.
 
-Parker, C. W.; Rowley, P. J.Local Characteristic p completions of weak BN-pairs, Proc. London Math. Soc (3)93(2006), 325 - 394.
+Parker, C. W.; Rowley, P. J. *Local Characteristic p completions of weak BN-pairs*, Proc. London Math. Soc (3)93(2006), 325 - 394.
 
 Bates, C.; Bundy, D.; Perkins, S.; Rowley, P. Primitive k-free permutation groups Arch. Math. (Basel) 88(2007), 193 - 198.
 
-Lempken, Wolfgang; Parker, Christopher; Rowley, Peter $(S_3, S_6)$-amalgams. IV. Rend. Sem. Mat. Univ. Padova 114 (2006), 1–19.
+Lempken, Wolfgang; Parker, Christopher; Rowley, Peter *$(S_3, S_6)$-amalgams. IV.* Rend. Sem. Mat. Univ. Padova 114 (2006), 1–19.
 
-Bates, Chris; Rowley, Peter Centralizers of real elements in finite groups. Arch. Math. (Basel) 85 (2005), no. 6, 485–489.
+Bates, Chris; Rowley, Peter *Centralizers of real elements in finite groups.* Arch. Math. (Basel) 85 (2005), no. 6, 485–489.
 
-Bates, C.; Bundy, D.; Perkins, S.; Rowley, P. Root differences for $A_n$. Arch. Math. (Basel) 85 (2005), no. 4, 313–317.
+Bates, C.; Bundy, D.; Perkins, S.; Rowley, P. *Root differences for $A_n$*. Arch. Math. (Basel) 85 (2005), no. 4, 313–317.
 
 Parker, C. W.; Rowley, P. J. *On commutator subspaces of $GF(p^a)SL_2(p^a)$-modules.* Arch. Math. (Basel) 84 (2005),no. 3, 211–215. 
 
