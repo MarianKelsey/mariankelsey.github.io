@@ -6,7 +6,7 @@ author_profile: true
 
 ### Published Papers
 
-Kelsey, Veronica; Rowley, Peter $M_{24}$-orbits of octad triples. Graphs Combin. 34 (2018), no. 6, 1429–1443.
+Kelsey, Veronica; Rowley, Peter *$M_{24}$-orbits of octad triples.* Graphs Combin. 34 (2018), no. 6, 1429–1443.
 
 Kelsey, Veronica; Rowley, Peter Chamber graphs of some geometries that are almost buildings. Innov. Incidence Geom. 17(2019), no. 3, 189–200.
 
