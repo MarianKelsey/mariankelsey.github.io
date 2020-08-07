@@ -8,90 +8,90 @@ author_profile: true
 
 Kelsey, Veronica; Rowley, Peter *$M_{24}$-orbits of octad triples.* Graphs Combin. 34 (2018), no. 6, 1429–1443.
 
-Kelsey, Veronica; Rowley, Peter Chamber graphs of some geometries that are almost buildings. Innov. Incidence Geom. 17(2019), no. 3, 189–200.
+Kelsey, Veronica; Rowley, Peter *Chamber graphs of some geometries that are almost buildings.* Innov. Incidence Geom. 17(2019), no. 3, 189–200.
 
-Parker, Chris; Rowley, Peter 2-minimal subgroups of monomial, linear and unitary groups. J. Algebra 543 (2020), 1–53. 
+Parker, Chris; Rowley, Peter *2-minimal subgroups of monomial, linear and unitary groups.* J. Algebra 543 (2020), 1–53. 
 
-Kelsey Veronica; Rowley, Peter, Chamber Graphs of Minimal Parabolic Sporadic Geometries. to appear Innov. Incidence Geom.
+Kelsey Veronica; Rowley, Peter, *Chamber Graphs of Minimal Parabolic Sporadic Geometries.* to appear Innov. Incidence Geom.
 
-Kelsey Veronica; Rowley, Peter, A Note on Involution Centralizers in Black Box Groups, to appear J. Group Theory 
+Kelsey Veronica; Rowley, Peter, *A Note on Involution Centralizers in Black Box Groups,* to appear J. Group Theory 
 
-Everett A.; Rowley P. Commuting involution graphs for 4-dimensional projective symplectic groups. to appear  Graphs Combin.
+Everett A.; Rowley P. *Commuting involution graphs for 4-dimensional projective symplectic groups*. to appear  Graphs Combin.
 
-Hart, Sarah B.; Rowley, Peter J. Maximal length elements of excess zero in finite Coxeter groups. J. Group Theory 21 (2018), no. 5, 817-837.
+Hart, Sarah B.; Rowley, Peter J. *Maximal length elements of excess zero in finite Coxeter groups*. J. Group Theory 21 (2018), no. 5, 817-837.
 
-Rowley, Peter; Wright, Ben. Structure of the $Fi_ {24}'$ maximal 2-local geometry point-line collinearity graph. LMS J. Comput. Math. 19 (2016), no. 1, 105-154.
+Rowley, Peter; Wright, Ben. *Structure of the $Fi_ {24}'$ maximal 2-local geometry point-line collinearity graph.* LMS J. Comput. Math. 19 (2016), no. 1, 105-154.
 
-Rowley, Peter; Ward, David. On $\pi$-product involution graphs in symmetric groups. Graphs Combin. 32 (2016), no. 4, 1545-1570.
+Rowley, Peter; Ward, David. *On $\pi$-product involution graphs in symmetric groups.* Graphs Combin. 32 (2016), no. 4, 1545-1570.
 
-Rowley, Peter; Taylor, Paul. An algorithm for the Thompson subgroup of a p-group. J. Algebra 461 (2016), 375-389.
+Rowley, Peter; Taylor, Paul. *An algorithm for the Thompson subgroup of a p-group.* J. Algebra 461 (2016), 375-389.
 
-Ballantyne, John; Rowley, Peter. Local fusion graphs and sporadic simple groups. Electron. J. Combin. 22 (2015), no. 3, Paper 3.18, 13 pp.
+Ballantyne, John; Rowley, Peter. *Local fusion graphs and sporadic simple groups.* Electron. J. Combin. 22 (2015), no. 3, Paper 3.18, 13 pp.
 
-Ballantyne, John; Bates, Chris; Rowley, Peter. The maximal subgroups of $E_7(2)$. LMS J. Comput. Math. 18 (2015), no. 1, 323-371.
+Ballantyne, John; Bates, Chris; Rowley, Peter. *The maximal subgroups of $E_7(2)$.* LMS J. Comput. Math. 18 (2015), no. 1, 323-371.
 
-Bates, Chris; Rowley, Peter; Taylor Paul. Involutions in the Automorphism Groups of Small Sporadic Simple Groups, Algebra, Volume 2015(2015) Article ID 587629, 15 pages.
+Bates, Chris; Rowley, Peter; Taylor Paul. *Involutions in the Automorphism Groups of Small Sporadic Simple Groups,* Algebra, Volume 2015(2015) Article ID 587629, 15 pages.
 
-Nawawi A.; Rowley P. On Commuting Graphs for Elements of Order 3 in Symmetric Groups, Electron. J. Combin. 22 (2015), no. 1, Paper 1.21, 12 pp.
+Nawawi A.; Rowley P. *On Commuting Graphs for Elements of Order 3 in Symmetric Groups,* Electron. J. Combin. 22 (2015), no. 1, Paper 1.21, 12 pp.
 
-Hart, Sarah B.; Rowley, Peter J. On Excess in Finite Coxeter Groups, J. Pure Appl. Algebra. 219(2015), 1657 – 1669.
+Hart, Sarah B.; Rowley, Peter J. *On Excess in Finite Coxeter Groups,* J. Pure Appl. Algebra. 219(2015), 1657 – 1669.
 
-Hart, Sarah B.; Rowley, Peter J. Corrigendum to Involution Products in Coxeter Groups, J. Group Theory 17 (2014), no 2, 379 – 380.
+Hart, Sarah B.; Rowley, Peter J. *Corrigendum to Involution Products in Coxeter Groups,* J. Group Theory 17 (2014), no 2, 379 – 380.
 
-Hart, Sarah B.; Rowley, Peter J. On X-posets in Finite Coxeter Groups, Taiwanese Journal of Mathematics 17(2013), no 6, 1901 – 1919.
+Hart, Sarah B.; Rowley, Peter J. *On X-posets in Finite Coxeter Groups,* Taiwanese Journal of Mathematics 17(2013), no 6, 1901 – 1919.
 
-Ballantyne J.; Rowley P. A Note on Computing Involution Centralizers, J. Symb. Comp. 54(2013), 1–8.
+Ballantyne J.; Rowley P. *A Note on Computing Involution Centralizers,* J. Symb. Comp. 54(2013), 1–8.
 
-Ballantyne J.; Greer N.; Rowley P. Local Fusion Graphs for Symmetric Groups, J. Group Theory 16(2013), 35 – 49.
+Ballantyne J.; Greer N.; Rowley P. *Local Fusion Graphs for Symmetric Groups*, J. Group Theory 16(2013), 35 – 49.
 
-Ballantyne J.; Greer N.; Rowley P. On Coprimality Graphs for Symmetric Groups, Graphs and Combinatorics 29(2013), 1595 – 1622.
+Ballantyne J.; Greer N.; Rowley P. *On Coprimality Graphs for Symmetric Groups*, Graphs and Combinatorics 29(2013), 1595 – 1622.
 
-Kilic, Nayil; Rowley, Peter, On the maximal rank of primitive residually connected geometries for $M_{22}$, J. Algebra 362(2012), 84 – 91.
+Kilic, Nayil; Rowley, Peter, *On the maximal rank of primitive residually connected geometries for $M_{22}$*, J. Algebra 362(2012), 84 – 91.
 
-Hart, Sarah B.; Rowley, Peter J. Zero Excess and Minimal Length in Finite Coxeter Groups, J. Group Theory 15(2012), 497 – 512.
+Hart, Sarah B.; Rowley, Peter J. *Zero Excess and Minimal Length in Finite Coxeter Groups*, J. Group Theory 15(2012), 497 – 512.
 
-Rowley, P. J.; Taylor, P, Involutions in Janko’s Group $J_4$, LMS J. Comput. 14(2011), 238 – 253.
+Rowley, P. J.; Taylor, P, *Involutions in Janko’s Group $J_4$*, LMS J. Comput. 14(2011), 238 – 253.
 
-Hart, Sarah B.; Rowley, Peter J. Maximal Length Parabolic Subgroups in Finite Coxeter Groups, JP Jour. Algebra, Number Theory and Appl 24(2012), 179 – 196.
+Hart, Sarah B.; Rowley, Peter J. *Maximal Length Parabolic Subgroups in Finite Coxeter Groups*, JP Jour. Algebra, Number Theory and Appl 24(2012), 179 – 196.
 
-Rowley, Peter; Walker, Louise, A 195,747,435 Vertex Graph related to the Fischer Group $Fi_{23}$, I, JP Jour. Algebra, Number Theory and Appl. 23(2011), 87 – 120.
+Rowley, Peter; Walker, Louise, *A 195,747,435 Vertex Graph related to the Fischer Group $Fi_{23}$, I*, JP Jour. Algebra, Number Theory and Appl. 23(2011), 87 – 120.
 
-Rowley, Peter; Walker, Louise, A 195,747,435 Vertex Graph related to the Fischer Group $Fi_{23}$, II, JP Jour. Algebra, Number Theory and Appl 24(2012), 203 – 239.
+Rowley, Peter; Walker, Louise, *A 195,747,435 Vertex Graph related to the Fischer Group $Fi_{23}$, II*, JP Jour. Algebra, Number Theory and Appl 24(2012), 203 – 239.
 
-Rowley, Peter; Walker, Louise, A 195,747,435 Vertex Graph related to the Fischer Group $Fi_{23}$, III, JP Jour. Algebra, Number Theory and Appl 27(2012), 1 – 44.
+Rowley, Peter; Walker, Louise, *A 195,747,435 Vertex Graph related to the Fischer Group $Fi_{23}$, III*, JP Jour. Algebra, Number Theory and Appl 27(2012), 1 – 44.
 
-Hart, Sarah B.; Rowley, Peter J. Lengths of Parabolic Subgroups in Finite Coxeter Groups. International Electronic Journal of Algebra 9(2011), 10 – 37.
+Hart, Sarah B.; Rowley, Peter J. *Lengths of Parabolic Subgroups in Finite Coxeter Groups*. International Electronic Journal of Algebra 9(2011), 10 – 37.
 
-Hart, Sarah B.; Rowley, Peter J. Involution Products in Coxeter Groups. J. Group Theory. 14(2011), 251 – 259.
+Hart, Sarah B.; Rowley, Peter J. *Involution Products in Coxeter Groups*. J. Group Theory. 14(2011), 251 – 259.
 
-Hart, Sarah B.; Rowley, Peter J. On Cosets in Coxeter Groups. Turk. J. Math. 36(2012),77 – 93.
+Hart, Sarah B.; Rowley, Peter J. *On Cosets in Coxeter Groups*. Turk. J. Math. 36(2012),77 – 93.
 
-Rowley, P. J.; Taylor, P, Point-Line Collinearity Graphs of two Sporadic Minimal Parabolic Geometries, J. Algebra. 331(2011), 304 – 310.
+Rowley, P. J.; Taylor, P, *Point-Line Collinearity Graphs of two Sporadic Minimal Parabolic Geometries*, J. Algebra. 331(2011), 304 – 310.
 
-Rowley, P. J.; Taylor, P, Normalizers of 2-subgroups in black box groups, LMS J. Comput. 13(2010), 307 – 319.
+Rowley, P. J.; Taylor, P, *Normalizers of 2-subgroups in black box groups*, LMS J. Comput. 13(2010), 307 – 319.
 
-Leemans, D.; Rowley, P. J. Rank three residually connected geometries for $M_{22}$,revisited. Electronic Journal of Combinatorics. 17(1) (2010) N4.
+Leemans, D.; Rowley, P. J. *Rank three residually connected geometries for $M_{22}$, revisited*. Electronic Journal of Combinatorics. 17(1) (2010) N4.
 
-Parker, C. W.; Rowley, P. J. A note on conjugacy of supplements in finite soluble groups,Bull London Math. Soc. (3)42(2010), 417 –419.
+Parker, C. W.; Rowley, P. J. *A note on conjugacy of supplements in finite soluble groups*, Bull London Math. Soc. (3)42(2010), 417 –419.
 
-Parker, C. W.; Rowley, P. J. A 3-local characterization of $Co_2$. J. Algebra. 323(2010), 601 –621.
+Parker, C. W.; Rowley, P. J. *A 3-local characterization of $Co_2$*. J. Algebra. 323(2010), 601 –621.
 
-Meirerfrankenfeld, Ulrich; Parker, Christopher; Rowley, Peter. Isolated subgroups in finite groups. J. London Math. Soc. (2)79(2009), 107 – 128.
+Meirerfrankenfeld, Ulrich; Parker, Christopher; Rowley, Peter. *Isolated subgroups in finite groups*. J. London Math. Soc. (2)79(2009), 107 – 128.
 
-Bates, Chris; Rowley, Peter. Normalizers of p-subgroups in Finite Groups. Arch. Math. 92(2009), 7 – 13.
+Bates, Chris; Rowley, Peter. *Normalizers of p-subgroups in Finite Groups*. Arch. Math. 92(2009), 7 – 13.
 
-Rowley, Peter. Disc Structures of certain Chamber Graphs, Innov. in Incidence Geometries. 11(2010), 69 – 97.
+Rowley, Peter. *Disc Structures of certain Chamber Graphs*, Innov. in Incidence Geometries. 11(2010), 69 – 97.
 
 
-Rowley, Peter. The Chamber Graph of the $M_{24}$ Maximal 2-Local Geometry.LMS J. Comput. Math. 12 (2009), 120–143.
+Rowley, Peter. *The Chamber Graph of the $M_{24}$ Maximal 2-Local Geometry*. LMS J. Comput. Math. 12 (2009), 120–143.
 
-Rowley, Peter; Walker, Louise. Involution fixed sets of the $M_{24}$ maximal 2-local geometry chamber graph. Ars Combin 111 (1023), 305 – 313.
+Rowley, Peter; Walker, Louise. *Involution fixed sets of the $M_{24}$ maximal 2-local geometry chamber graph.* Ars Combin 111 (1023), 305 – 313.
 
-Bates, D.; Bundy, D.; Perkins, S.; Rowley, P. A note on commuting graphs for symmetric groups. Elec. J. Combinatorics 16(2009), R6.
+Bates, D.; Bundy, D.; Perkins, S.; Rowley, P. *A note on commuting graphs for symmetric groups*. Elec. J. Combinatorics 16(2009), R6.
 
-Parker, C. W.; Rowley, P. J. A 3-local identification of the Alternating Group of Degree 8, the McLaughlin Simple Group and their Automorphism Groups. J. Algebra 319(2008), no. 4, 1752 - 1775.
+Parker, C. W.; Rowley, P. J. *A 3-local identification of the Alternating Group of Degree 8, the McLaughlin Simple Group and their Automorphism Groups*. J. Algebra 319(2008), no. 4, 1752 - 1775.
 
-Hart, Sarah B.; Rowley, Peter J. Poincare Series of Cosets in Coxeter Groups. Algebra Colloq. 16 (2009), no. 4, 567–574.
+Hart, Sarah B.; Rowley, Peter J. *Poincare Series of Cosets in Coxeter Groups*. Algebra Colloq. 16 (2009), no. 4, 567–574.
 
 Hart, Sarah B.; Rowley, Peter J. Lengths of Subsets in Coxeter Groups. Turk. J. Math. 31(2007), 63 - 77.
 
