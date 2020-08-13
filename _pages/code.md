@@ -1,6 +1,8 @@
 ---
 title: "Code for Research Papers"
-permalink: /talks/
+permalink: /code/
 author_profile: true
 ---
+
+hello
 
