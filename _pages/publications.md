@@ -3,8 +3,11 @@ title: Publications
 permalink: /publications/
 author_profile: true
 ---
+### code 
+[E_6(2)](https://github.com/peterrowley/peterrowley.github.io/blob/master/files/The%20commuting%20graph%20of%20E6(2).zip)
+[3^D_4(2)](https://github.com/peterrowley/peterrowley.github.io/blob/master/files/the%20commuting%20graph%20of%203D4(2).zip)
+[F_4(2)'](https://github.com/peterrowley/peterrowley.github.io/blob/master/files/the%20commuting%20graph%20of%20TF4(2)'.zip)
 
-[files](https://github.com/peterrowley/peterrowley.github.io/blob/master/files/The%20commuting%20graph%20of%20E6(2).zip)
 ### Published Papers
 
 Kelsey, Veronica; Rowley, Peter *$M_{24}$-orbits of octad triples.* Graphs Combin. 34 (2018), no. 6, 1429–1443.
