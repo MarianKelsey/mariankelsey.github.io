@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 {% include base_path %}
-**Group Theory**
+**<ins>Group Theory</ins>**
 
 [Question Sheets](https://github.com/peterrowley/peterrowley.github.io/blob/master/files/Questions.pdf)
 
