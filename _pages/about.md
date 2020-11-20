@@ -9,11 +9,10 @@ redirect_from:
   -
 ---
 
-Professor in pure mathematics at the University of Manchester.
+Biblical scholar and tutor.
 
 
 
 ## Contact details
 
-Room 2.131 
-Email: peter.j.rowley@manchester.ac.uk
+Email: mariankelsey@hotmail.co.uk
