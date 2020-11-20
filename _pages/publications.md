@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Published Papers
+### Publications
 
 ##### *The Book of Jonah and the Theme of Exile*
 publication date 2020, Journal for the Study of the Old Testament
