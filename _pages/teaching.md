@@ -4,8 +4,4 @@ permalink: /teaching/
 author_profile: true
 ---
 {% include base_path %}
-**<ins>Group Theory</ins>**<br/>
-[Question Sheets](https://peterrowley.github.io/files/Questions.pdf) 
-
-**Week 1**<br/>
-[Lecture 1 - Revision notes](https://peterrowley.github.io/files/Lecture1-revision.pdf) 
+I have offered modules in introductory and advanced level Hebrew Bible and introductory and advanced level Hebrew language. I have organised and team-taught modules on Judaism, and work placement, and contributed towards a module on biblical reception in music, art and literature. I have supervised at undergraduate and Masters level and been second supervisor to doctoral students.
