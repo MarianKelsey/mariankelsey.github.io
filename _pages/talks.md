@@ -14,15 +14,15 @@ author_profile: true
 
 *Humour in the Bible.* Public lecture
 
-*Who is Like Tyre? Sibling Rivalry between Tyre and Jerusalem.* Biblical Studies Seminar, St Andrews, April 2019
+*Who is Like Tyre? Sibling Rivalry between Tyre and Jerusalem.* Biblical Studies Seminar, St Andrews, 2019
 
 *The Relenting of God in Jonah and the Twelve.* SBL international conference, Helsinki, 2018
 
-*The Role of the Prophet in the Book of Jonah.* BAJS conference paper, Durham, July 2018
+*The Role of the Prophet in the Book of Jonah.* BAJS conference paper, Durham, 2018
 
 *The Relenting of God in the Book of Jonah.* SOTS conference, Durham, 2018
 
 *Were the Ninevites Saved?* St Andrews Symposium for Biblical and Early Christian Studies, 2018
 
-*Jacob Wrestling in the Bible, Liturgy and the Arts.* Presentation at Institute for Theology, Imagination and the Arts Seminar, St Andrews, November 2016
+*Jacob Wrestling in the Bible, Liturgy and the Arts.* Presentation at Institute for Theology, Imagination and the Arts Seminar, St Andrews, 2016
 
