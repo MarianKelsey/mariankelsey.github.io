@@ -7,7 +7,7 @@ author_profile: true
 ### Publications
 
 ##### *The Foreign Soil of Moab and Tarshish (provisional title)* 2022,
-The Cambridge Companion to Biblical Narrative, ed. Keith Bodner. Cambridge:Cambridge University Press.
+The Cambridge Companion to Biblical Narrative, ed. Keith Bodner. Cambridge: Cambridge University Press.
 
 Under contract
 
@@ -39,6 +39,8 @@ https://doi.org/10.1177/0309089219864607
 
 ##### *Jacob Wrestling: Genesis 32:22-32* 2019, 
 Chapter in Annunciations: Sacred Music for the Twenty-First Century, ed. George Corbett. Cambridge: Open Book Publishers.
+
+The book was the result of a collaboration between theologians and composers to produce new pieces of biblically-informed choral music. This chapter explores the story of Jacob wrestling with an ambiguous divine figure. The research was part of my collaboration with composer Dominic de Grande (http://www.dominicdegrande.com/).
 
 https://www.openbookpublishers.com/product/994
 (open access)
