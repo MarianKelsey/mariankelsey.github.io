@@ -24,3 +24,4 @@ author_profile: true
 
 *Jacob Wrestling in the Bible, Liturgy and the Arts.* Institute for Theology, Imagination and the Arts Seminar, St Andrews, 2016
 
+*Humour in the Bible: Judges, Jonah and Jesus’ Parables.* Northumberland, 2015.
