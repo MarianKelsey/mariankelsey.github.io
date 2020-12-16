@@ -9,7 +9,7 @@ redirect_from:
   -
 ---
 
-I am a biblical scholar specialising in Hebrew Bible. My main area of research is the literary context of Second Temple period biblical literature, specifically the interrelationship of text, belief and community. Through my doctoral thesis, I demonstrated how the book of Jonah used inner-biblical allusions and literary motifs to address the problematic issue of God’s sovereignty in light of Jerusalem’s destruction. I have also published on elements of the Jacob cycle, collaborated in the production of biblically-informed art, and written about the use of the Hebrew Bible within the New Testament. I am currently researching the literary function of cities within the Hebrew Bible.
+I am a biblical scholar specialising in Hebrew Bible. I am particularly interested in inner-biblical allusion, literary motifs, biblical reception in art, and the book of Jonah.
 
 I completed my PhD at the University of St Andrews. Previously I received a Masters degree with distinction in biblical studies at Durham University, and a first class MTheol (Hons) at St Andrews.
 
