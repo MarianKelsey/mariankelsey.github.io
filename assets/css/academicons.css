@@ -55,6 +55,12 @@
 .ai-biorxiv:before {
   content: "\e810";
 }
+.ai-academia:before {
+  content: "\e844";
+}
+.ai-academia-square:before {
+  content: "\e845";
+}
 .ai-biorxiv-square:before {
   content: "\e811";
 }
