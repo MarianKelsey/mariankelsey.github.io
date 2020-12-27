@@ -1,6 +1,6 @@
 ---
 title: Online Content
-permalink: /online-content/
+permalink: /onlinecontent/
 author_profile: true
 ---
 
