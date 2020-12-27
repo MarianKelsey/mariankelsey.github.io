@@ -22,12 +22,7 @@
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
 }
-.ai-academia:before {
-  content: "\e800";
-}
-.ai-academia-square:before {
-  content: "\e801";
-}
+
 .ai-acclaim:before {
   content: "\e802";
 }
