@@ -182,7 +182,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  online-content:
+  onlinecontent:
     output: true
     permalink: /:collection/:path/
 
@@ -228,7 +228,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: online-content
+      type: onlinecontent
     values:
       layout: single
       author_profile: true
