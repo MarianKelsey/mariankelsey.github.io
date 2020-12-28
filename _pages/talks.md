@@ -4,7 +4,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-##### Talks
 
 *What Are You to Me, O Tyre? The Relationship between Tyre and Jerusalem in the Hebrew Bible.* Newbold College Research Seminars, 2020
 
