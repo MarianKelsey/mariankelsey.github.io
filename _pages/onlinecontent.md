@@ -25,13 +25,15 @@ An open-access book of essays and music resulting from the scheme is available [
 
 
 ### Why Study Theology?
-The University of Nottingham has produced a series of short videos on why to study aspects of theology. Prof. Tom O'Loughlin interviews Nottingham TRS staff on areas of their research and teaching.
+The University of Nottingham has produced a series of short videos on why to study aspects of theology. Prof. Tom O'Loughlin interviews Nottingham TRS staff on areas of their research and teaching. See four interviews with me on different aspects of my research:
 
-See an interview with me on why to study the book of Jonah [here](https://youtu.be/2-NACj4RYfM).
+'Why study the book of Jonah?' [here](https://youtu.be/2-NACj4RYfM).
 
-See an interview with me on why to study cities in the Hebrew Bible [here](https://youtu.be/YKc7NxhYxaU).
+'Why study cities in the Hebrew Bible?' [here](https://youtu.be/YKc7NxhYxaU).
 
-More coming soon!
+'Why study memory in the Hebrew Bible' [here](https://youtu.be/kHyvfJzanTk).
+
+'Why study theology?' [here](https://youtu.be/vjiFNVCOs4k).
 
 
 
