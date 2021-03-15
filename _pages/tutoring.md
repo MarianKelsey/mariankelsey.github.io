@@ -6,7 +6,7 @@ author_profile: true
 {% include base_path %}
 I tutor biblical languages (Hebrew and Greek) and biblical studies.
 
-I offer one-to-one tutoring and group teaching. I can provide regular lessons, courses, and one-off talks.
+I offer one-to-one tutoring and group teaching. I can provide regular lessons, courses, and one-off talks. I have experience teaching students with autism and dyslexia.
 
 Please do get in touch if you or your group would like to discuss tuition; I look forward to hearing from you!
 
@@ -50,6 +50,6 @@ The full course is twenty lessons. They can be booked altogether, or in two bloc
 
 
 
-#### Other lessons and courses
+#### Other lessons and talks
 
 Please get in touch if you would like to discuss lessons or talks on any of the other subjects from my research projects or university teaching.
