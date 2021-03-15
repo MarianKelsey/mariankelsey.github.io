@@ -31,7 +31,7 @@ The University of Nottingham has produced a series of short videos on why to stu
 
 'Why study cities in the Hebrew Bible?' [here](https://youtu.be/YKc7NxhYxaU).
 
-'Why study memory in the Hebrew Bible' [here](https://youtu.be/kHyvfJzanTk).
+'Why study memory in the Hebrew Bible?' [here](https://youtu.be/kHyvfJzanTk).
 
 'Why study theology?' [here](https://youtu.be/vjiFNVCOs4k).
 
