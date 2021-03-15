@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 
-*What Are You to Me, O Tyre? The Relationship between Tyre and Jerusalem in the Hebrew Bible.* Newbold College Research Seminars, 2020
+*Whatever Happened to the Merciful and Gracious God? The Divine Attributes Formula in Post-Hebrew Bible Literature.* St Andrews Biblical Studies Symposium, 2021 (Rearranged from 2020 due to COVID-19)
 
-*The Attributes of God between the Testaments, or, Whatever Happened to the Merciful and Gracious God?* St Andrews Biblical Studies Symposium, 2020 (Cancelled—COVID-19)
+*What Are You to Me, O Tyre? The Relationship between Tyre and Jerusalem in the Hebrew Bible.* Newbold College Research Seminars, 2020
 
 *The Appearance and Absence of Tyre in Biblical Narrative.* Theology and Religious Studies Seminar, Nottingham, 2020 (Cancelled—COVID-19)
 
