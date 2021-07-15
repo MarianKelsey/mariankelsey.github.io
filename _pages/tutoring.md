@@ -4,7 +4,7 @@ permalink: /tutoring/
 author_profile: true
 ---
 {% include base_path %}
-I tutor biblical languages (Hebrew and Greek) and biblical studies.
+I tutor ancient languages (Hebrew, Greek and Latin) and biblical studies.
 
 I offer one-to-one tutoring and group teaching. I can provide regular lessons, courses, and one-off talks. I have experience teaching students with autism and dyslexia.
 
