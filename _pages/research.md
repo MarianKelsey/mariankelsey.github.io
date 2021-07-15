@@ -6,7 +6,7 @@ author_profile: true
 
 In my research, I focus on the literary context of biblical literature, in particular the interrelationship of text, belief and community. 
 
-My latest publication was ‘The Book of Jonah and the Theme of Exile,’ which appeared in JSOT last year. I have also published on elements of the Jacob cycle, and written about the use of the Hebrew Bible within the New Testament. 
+I have published on Jonah, Ruth, the Jacob cycle, the use of the Hebrew Bible within the New Testament, and biblical reception in the arts.
 
 I am currently researching the literary function of cities within the Bible and the reception of city-traditions in later Jewish and Christian literature and culture. Meanwhile, I am working with a New Testament scholar on a paper examining the use of Hosea in the Matthean infancy narrative, and working on two projects on the Book of Ruth.
 
