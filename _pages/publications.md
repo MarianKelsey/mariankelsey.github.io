@@ -48,7 +48,7 @@ This article examines the exilic theme of many inner-biblical allusions in the b
 ### *Jacob Wrestling: Genesis 32:22-32,* 2019, 
 Chapter in Annunciations: Sacred Music for the Twenty-First Century, ed. George Corbett. Cambridge: Open Book Publishers.
 
-The book was the result of a collaboration between theologians and composers to produce new pieces of biblically-informed choral music. This chapter explores the story of Jacob wrestling with an ambiguous divine figure. The research was part of my collaboration with composer Dominic de Grande ([available here](http://www.dominicdegrande.com/)).
+The book was the result of a collaboration between theologians and composers to produce new pieces of biblically-informed choral music. This chapter explores the story of Jacob wrestling with an ambiguous divine figure. The research was part of my collaboration with composer [Dominic de Grande](http://www.dominicdegrande.com/)).
 
 [available here](https://www.openbookpublishers.com/product/994)
 (open access)
