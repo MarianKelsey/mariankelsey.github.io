@@ -4,7 +4,10 @@ permalink: /teaching/
 author_profile: true
 ---
 {% include base_path %}
-I have offered modules in introductory and advanced level Hebrew Bible and introductory and advanced level Hebrew language. I have organised and team-taught modules on Judaism, and work placement, and contributed towards a module on biblical reception in music, art and literature. I have supervised at undergraduate and Masters level and been second supervisor to doctoral students.
+In my university lecturing, I teach introductory and advanced level Hebrew Bible modules and introductory and advanced level Hebrew language modules. At the University of Nottingham, I also organised and team-taught modules on Judaism, and work placement, and contributed towards a module on biblical reception in music, art and literature. I supervised at undergraduate and Masters level and was second supervisor to doctoral students.
+
+I teach in various adult education settings on topics including art and literature inspired by the Bible, biblical cities, Hebrew, and Latin.
+
 
 ### Major modules
 
