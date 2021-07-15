@@ -22,6 +22,8 @@ You can read a blog post about the scheme [here](https://artandtheology.org/2020
 
 An open-access book of essays and music resulting from the scheme is available [here](https://www.openbookpublishers.com/product/994).
 
+The poetry from the scheme was published in a book available [here](http://www.tapsalteerie.co.uk/product/the-song-poems-of-biblical-theophany/).
+
 
 
 ### Why Study Theology?
