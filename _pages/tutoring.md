@@ -70,7 +70,7 @@ Lessons are available individually or as part of a group. You can book lessons i
 
 #### Art and Literature Inspired by the Bible
 
-We will explore a range of artistic pieces depicting or inspired by biblical stories. These include paintings, sculptures, book illustrations, poetry, plays, and books—from Rembrandt to comic books, and from Shakespeare to Harry Potter. We will look at how artists interpret the Bible stories in different ways, and how they use biblical themes and ideas to enrich their own work.
+We will explore a range of artistic pieces depicting or inspired by biblical stories. These include paintings, sculptures, poetry, plays, television and books—from Rembrandt to comic books, and from Dracula to Harry Potter. We will look at how artists interpret the Bible stories in different ways, and how they use biblical themes and ideas to enrich their own work.
 
 There are ten lessons in the course.
 
