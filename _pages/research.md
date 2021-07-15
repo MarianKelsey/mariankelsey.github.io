@@ -12,7 +12,6 @@ I am currently researching the literary function of cities within the Bible and 
 
 My research draws on other disciplines to bring fresh perspectives to biblical studies: in particular, literary approaches to the texts, and insights from other disciplines into the interplay of texts, community formation, and cultural identity.
 
-I am a Visiting Scholar with the University of St Andrews.
 
 
 ### Current research project
