@@ -4,17 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-### *The Foreign Soil of Moab and Tarshish (provisional title)* 2022,
+### *Ruth and Jonah: Inner-biblical explorations of the patriarchs and prophets* 2022,
 The Cambridge Companion to Biblical Narrative, ed. Keith Bodner. Cambridge: Cambridge University Press.
 
 Under contract
 
 
 
-### *Prophetic Protest* 2021,
-AJS Perspectives: The Protest Issue
+### *Reading Ruth* William A. Tooman with Marian Kelsey, 2022,
+Cascade Companions. Cascade Press.
 
-In press
+Under contract
 
 
 
@@ -22,6 +22,16 @@ In press
 Encyclopedia of the Bible and Its Reception. Berlin: De Gruyter.
 
 In press
+
+
+
+### *Prophetic Protest* 2021,
+AJS Perspectives: The Protest Issue
+
+Protest to God is a crucial aspect of the prophetic role. I consider the protests of Abraham, Jonah and Job's wife, and what they say about God's justice.
+
+[available here](https://www.associationforjewishstudies.org/docs/default-source/ajs-perspectives/ajs_perspectives-protest-issue0bd05966-e039-4a1b-9bca-95d884189c07.pdf?sfvrsn=8688cd46_9)
+(open access)
 
 
 
