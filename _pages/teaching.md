@@ -11,17 +11,11 @@ I teach in various adult education settings on topics including art and literatu
 
 ### Major modules
 
-*Narrative in the Hebrew Bible*
-An upper-level undergraduate module exploring the narrative literature of the Bible and literary approaches to the text
-
 *Foreign Cities in the Hebrew Bible*
-A graduate level module examining the literary portrayal of foreign cities in a selection of narrative and poetic texts
+Students follow the literary history of foreign cities in the Hebrew Bible/Old Testament. In biblical texts, foreign cities are often portrayed as enemies. They are subject to many prophecies about their brutality to others and their violent end. The character of these cities as personified in the Bible outlived the texts in which they were born. For example, ‘Babylon’ survives into the modern day as a literary and cultural code for decadence, corruption, and imperial evil. Just as Babylon and other foreign cities were used in the Bible to shape Israelite identity in distinction from the world around it, so today we use ciphers like ‘Babylon’ to define what we are not, and therefore, who we are.
 
-*Introduction to Hebrew Bible*
-An introductory module encompassing the literature, history and Interpretation of the Hebrew Bible/Old Testament
+*Art and Literature Inspired by the Bible*
+In this course, we will explore a range of artistic pieces inspired by biblical stories. These include paintings, sculptures, book illustrations, poetry, plays, and books—from Rembrandt to comic books, and from Dracula to Harry Potter. We will look at how artists interpret the Bible stories in different ways, and how they use biblical themes and ideas to enrich their own work. 
 
-*Introduction to Biblical Hebrew*
-A full-year introductory module teaching students the essential grammar and vocabulary to the point that they can read and translate short biblical passages
-
-*Intermediate Biblical Hebrew*
-An upper-level undergraduate module on translating and analysing selected passages within the BHS
+*Narrative in the Hebrew Bible*
+Students expplore examples of narrative literature in the Bible and the elements of a literary approach to the texts. You will learn about the use of plot, characterisation, repetition and ambiguity in biblical narrative, and how biblical narrative persuasively presents its ideology (or ideologies) to its readers. You will discover how allusions, text collation and scribal editing created internal references and interdependence between various parts of ‘the’ biblical narrative. You will consider some variations of biblical narrative, namely prophetic narrative and diaspora novella, and developments in biblical narrative beyond and outside the Hebrew Bible.
