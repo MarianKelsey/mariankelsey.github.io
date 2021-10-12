@@ -14,9 +14,7 @@ Email address: mariankelsey456@gmail.com
 
 
 
-### Courses
-
-#### The World of the Hebrew Bible/Old Testament
+### The World of the Hebrew Bible/Old Testament
 
 An excursion into the historical and literary world of the Hebrew Bible/Old Testament.
 
@@ -34,7 +32,7 @@ The full course is twenty lessons. They can be booked altogether, or in two bloc
 
 
 
-#### Learn to Read Biblical Hebrew
+### Learn to Read Biblical Hebrew
 
 Work at your own pace to learn how to read the Hebrew Bible/Old Testament in the original Hebrew.
 
@@ -42,7 +40,7 @@ Lessons are available individually or as part of a group. You can book lessons i
 
 
 
-#### The World of the New Testament
+### The World of the New Testament
 
 A journey through the gospels and letters of the New Testament. 
 
@@ -60,7 +58,7 @@ There are ten lessons in the course.
 
 
 
-#### Learn to Read Biblical Greek
+### Learn to Read Biblical Greek
 
 Work at your own pace to learn how to read the New Testament in the original Greek.
 
@@ -68,7 +66,7 @@ Lessons are available individually or as part of a group. You can book lessons i
 
 
 
-#### Art and Literature Inspired by the Bible
+### Art and Literature Inspired by the Bible
 
 We will explore a range of artistic pieces depicting or inspired by biblical stories. These include paintings, sculptures, poetry, plays, television and books—from Rembrandt to comic books, and from Dracula to Harry Potter. We will look at how artists interpret the Bible stories in different ways, and how they use biblical themes and ideas to enrich their own work.
 
@@ -76,7 +74,7 @@ There are ten lessons in the course.
 
 
 
-#### Learn a Little Latin
+### Learn a Little Latin
 
 Take a dabble into Latin if you’re learning it for the first time, or refresh some old school Latin. We will focus on reading to understand and enjoy, rather than covering all the grammatical detail.
 
@@ -84,6 +82,6 @@ Lessons are available individually or as part of a group. You can book lessons i
 
 
 
-#### Other lessons and talks
+### Other lessons and talks
 
 Please get in touch if you would like to discuss lessons or talks on any of the other subjects from my research projects or university teaching.
