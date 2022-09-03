@@ -4,15 +4,17 @@ permalink: /tutoring/
 author_profile: true
 ---
 {% include base_path %}
-I tutor ancient languages (Hebrew, Greek and Latin) and biblical studies.
+I occasionally tutor ancient languages (Hebrew, Greek and Latin) and biblical studies, and regularly give public talks about the biblical world and its literature.
 
-I offer one-to-one tutoring and group teaching. I can provide regular lessons, courses, and one-off talks. I have experience teaching students with autism and dyslexia.
+I have offered one-to-one tutoring, group teaching, and seminar-style talks. I have experience teaching students with autism and dyslexia.
 
-Please do get in touch if you or your group would like to discuss tuition; I look forward to hearing from you!
+Please do get in touch if you or your group would like to discuss any such teaching.
 
 Email address: mariankelsey456@gmail.com
 
 
+
+Examples of my teaching:
 
 ### The World of the Hebrew Bible/Old Testament
 
