@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+### *Retellings of biblical narrative in sciencec fiction and fantasy*
+The Routledge Handbook of the Hebrew Bible in Contemporary Fiction and Poetry, forthcoming
+
+
+
 ### *Ruth and Jonah: Inner-biblical explorations of the patriarchs and prophets,* 2022,
 The Cambridge Companion to Biblical Narrative, ed. Keith Bodner. Cambridge: Cambridge University Press.
 
@@ -14,14 +19,10 @@ Under contract
 ### *Reading Ruth,* William A. Tooman with Marian Kelsey, 2022,
 Cascade Companions. Cascade Press.
 
-Under contract
-
 
 
 ### *Names/Naming in the Visual Arts,* 2021,
 Encyclopedia of the Bible and Its Reception. Berlin: De Gruyter.
-
-In press
 
 
 
