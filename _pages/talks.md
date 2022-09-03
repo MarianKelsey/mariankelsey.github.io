@@ -4,6 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+*Who is Like Tyre?* Lifelong Learning Dundee, 2022.
 
 *Fallen, Fallen is Babylon: The Literary History of a City Within and Beyond the Bible.* Lifelong Learning Dundee, 2021.
 
