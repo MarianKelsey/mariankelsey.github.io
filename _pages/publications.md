@@ -4,15 +4,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+### *Book of Jonah*
+Database of Religious History, Vancouver, BC: University of British Columbia. Retrieved February 03. doi: http://hdl.handle.net/2429/83701
+
+
+
 ### *Retellings of biblical narrative in sciencec fiction and fantasy*
-The Routledge Handbook of the Hebrew Bible in Contemporary Fiction and Poetry, forthcoming
+The Routledge Handbook of the Hebrew Bible in Contemporary Fiction and Poetry. 
+
+Forthcoming
 
 
 
 ### *Ruth and Jonah: Inner-biblical explorations of the patriarchs and prophets,* 2022,
 The Cambridge Companion to Biblical Narrative, ed. Keith Bodner. Cambridge: Cambridge University Press.
 
-Under contract
+Forthcoming
 
 
 
