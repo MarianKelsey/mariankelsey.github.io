@@ -4,6 +4,15 @@ permalink: /onlinecontent/
 author_profile: true
 ---
 
+### Gods & Moviemakers: The Lord of the Rings
+Gods & Moviemakers is a podcast for religion / history nerds and movie lovers with hosts Joe Scales and Katie Turner. 'In many ways, The Lord of the Rings: The Fellowship of the Ring perfectly demonstrates most of the tropes of a "Chosen One" type: An ordinary person chosen for an extraordinary task, guided by a mentor-type figure, and aided by a loyal support system. But who is the chosen figure in this film? Is it the hobbit, Frodo, or Aragorn, the king to be?'
+
+I was invited as the expert guest on this episode to debate who has been chosen, and what biblical imagery may be present in our two potential chosen one characters.
+
+You can listen to the episode [here](https://www.godsandmoviemakers.com/episodes-102-the-lord-of-the-rings)
+
+​
+
 ### The book of Jonah, the relenting of God, and the fate of Jerusalem
 My PhD thesis on inner-biblical allusion in the book of Jonah will soon be published as a monograph. The findings also formed the basis of my plenary paper at the SOTS summer conference in Durham in 2018.
 
