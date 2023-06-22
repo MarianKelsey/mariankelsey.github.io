@@ -9,7 +9,7 @@ Gods & Moviemakers is a podcast for religion / history nerds and movie lovers wi
 
 I was invited as the expert guest on this episode to debate who has been chosen, and what biblical imagery may be present in our two potential chosen one characters.
 
-You can listen to the episode [here](https://www.godsandmoviemakers.com/episodes-102-the-lord-of-the-rings)
+You can listen to the episode [here](https://www.godsandmoviemakers.com/episodes-102-the-lord-of-the-rings).
 
 ​
 
