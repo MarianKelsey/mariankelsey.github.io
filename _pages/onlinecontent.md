@@ -11,7 +11,12 @@ I was invited as the expert guest on this episode to debate who has been chosen,
 
 You can listen to the episode [here](https://www.godsandmoviemakers.com/episodes-102-the-lord-of-the-rings).
 
+
+
+### Book of Jonah
+Entry in Database of Religious History, Vancouver, BC: University of British Columbia. [Available here](http://hdl.handle.net/2429/83701).
 ​
+
 
 ### The book of Jonah, the relenting of God, and the fate of Jerusalem
 My PhD thesis on inner-biblical allusion in the book of Jonah will soon be published as a monograph. The findings also formed the basis of my plenary paper at the SOTS summer conference in Durham in 2018.
