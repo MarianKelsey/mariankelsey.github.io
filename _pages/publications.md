@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ### *Book of Jonah*
-Database of Religious History, Vancouver, BC: University of British Columbia. Retrieved February 03. doi: http://hdl.handle.net/2429/83701
+Database of Religious History, Vancouver, BC: University of British Columbia. doi: http://hdl.handle.net/2429/83701
 
 
 
