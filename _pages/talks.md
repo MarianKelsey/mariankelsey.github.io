@@ -3,6 +3,17 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+*Prophetic Protest and Divine (In)Justice.* Nottingham, March 2025.
+
+*How (Not) to Raise the Dead: Necromancy in the Hebrew Bible.* Nottingham, October 2024.
+
+*Creation to the Patriarchs.* St Mellitus College, 2024.
+
+*How does translation shape the Bible?* Lifelong Learning Dundee, 2024.
+
+*Biblical Retellings in Modern Fantasy and Sci-Fi.* Cambridge, October 2023.
+
+*Bewitching the Bible.* Nottingham, November 2022.
 
 *Who is Like Tyre?* Lifelong Learning Dundee, 2022.
 
