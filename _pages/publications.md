@@ -4,27 +4,33 @@ permalink: /publications/
 author_profile: true
 ---
 
-### *Book of Jonah*
-Database of Religious History, Vancouver, BC: University of British Columbia. doi: http://hdl.handle.net/2429/83701
+### *Co-texts and Contexts in the Book of Jonah*
+LHBOTS, Bloomsbury (under contract).
 
 
 
-### *Retellings of biblical narrative in sciencec fiction and fantasy*
-The Routledge Handbook of the Hebrew Bible in Contemporary Fiction and Poetry. 
-
+### *“They have mouths, but do not speak”: The efficacy of communicative language teaching methods in Biblical Hebrew education within the UK university context.*
 Forthcoming
 
 
 
-### *Ruth and Jonah: Inner-biblical explorations of the patriarchs and prophets,* 2022,
+### *Retellings in Science Fiction and Magic Realism,* 2025,
+The Hebrew Bible in Contemporary Fiction and Poetry, ed. Lena-Sofia Tiemeyer. Abingdon: Routledge. 
+
+
+
+### *Ruth and Jonah: Inner-biblical explorations of the patriarchs and prophets,* 2025,
 The Cambridge Companion to Biblical Narrative, ed. Keith Bodner. Cambridge: Cambridge University Press.
-
-Forthcoming
 
 
 
 ### *Reading Ruth,* William A. Tooman with Marian Kelsey, 2022,
 Cascade Companions. Cascade Press.
+
+
+
+### *Book of Jonah*
+Database of Religious History, Vancouver, BC: University of British Columbia. doi: http://hdl.handle.net/2429/83701
 
 
 
