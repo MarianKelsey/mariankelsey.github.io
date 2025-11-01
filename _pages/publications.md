@@ -5,37 +5,58 @@ author_profile: true
 ---
 
 ### *Co-texts and Contexts in the Book of Jonah*
-LHBOTS, Bloomsbury (under contract).
+LHBOTS, T&T Clark.
+
+[available here](https://www.bloomsbury.com/us/cotexts-and-contexts-in-the-book-of-jonah-9780567723888/)
+(purchase, but hey, I may get a tiny bit of money from the purchase price of this one!)
 
 
 
 ### *“They have mouths, but do not speak”: The efficacy of communicative language teaching methods in Biblical Hebrew education within the UK university context.*
-Forthcoming
+Teaching Theology and Religion, Vol. 28
+
+[available here](https://onlinelibrary.wiley.com/doi/10.1111/teth.70000)
+(open access)
 
 
 
 ### *Retellings in Science Fiction and Magic Realism,* 2025,
 The Hebrew Bible in Contemporary Fiction and Poetry, ed. Lena-Sofia Tiemeyer. Abingdon: Routledge. 
 
+[available here](https://www.routledge.com/The-Hebrew-Bible-in-Contemporary-Fiction-and-Poetry/Tiemeyer/p/book/9781032248356)
+(purchase)
+
 
 
 ### *Ruth and Jonah: Inner-biblical explorations of the patriarchs and prophets,* 2025,
 The Cambridge Companion to Biblical Narrative, ed. Keith Bodner. Cambridge: Cambridge University Press.
+
+[available here](https://www.cambridge.org/core/books/cambridge-companion-to-biblical-narrative/D4FAEF0B5743D99DB9B92416DAA6FEFB)
+(purchase)
 
 
 
 ### *Reading Ruth,* William A. Tooman with Marian Kelsey, 2022,
 Cascade Companions. Cascade Press.
 
+[available here](https://wipfandstock.com/9781725262713/rereading-ruth/)
+(purchase)
+
 
 
 ### *Book of Jonah*
 Database of Religious History, Vancouver, BC: University of British Columbia. doi: http://hdl.handle.net/2429/83701
 
+[available here](https://religiondatabase.org/browse/1418)
+(open access)
+
 
 
 ### *Names/Naming in the Visual Arts,* 2021,
 Encyclopedia of the Bible and Its Reception. Berlin: De Gruyter.
+
+[avaiable here](https://www.degruyterbrill.com/document/isbn/9783110313376/html)
+(purchase print copy only)
 
 
 
